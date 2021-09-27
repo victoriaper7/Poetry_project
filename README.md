@@ -1,4 +1,3 @@
-# This is a great poem
 
 
 # Poetry_project
