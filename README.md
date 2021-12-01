@@ -48,4 +48,4 @@ random.shuffle(short_sentences)
 for s in short_sentences[:9]:
   # remove linebreaks
   s = s.replace("\n",' ')
-  print(s)
+  print(s).py
